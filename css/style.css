@@ -1,0 +1,286 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Montserrat';
+    background: #f5f7fa;
+}
+
+
+.wrapper {
+    background: #fff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+}
+
+
+.sidebar {
+    width: 370px;
+    background: #1e2939;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.my-photo {
+    width: 370px;
+}
+
+
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.contacts-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+
+.contacts-link {
+    color: #69717b;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.contacts-link-type {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+
+.tech-skill-container {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.tech-skill-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+
+.tech-skill-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+
+.tech-skill-text {
+    color: #fff;
+}
+
+
+.soft-skill-container {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.soft-skill-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+
+.soft-skill-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+
+.soft-skill-text {
+    color: #fff;
+}
+
+
+
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.info-container {
+    margin-bottom: 108px;
+}
+
+
+.projects-container {
+    margin-bottom: 55px;
+}
+
+
+.profession {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+
+.name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px
+}
+
+
+.description {
+    max-width: 415px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+    margin-bottom: 55px;
+}
+
+
+.about-me-title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.projects-item {
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+
+.projects-link {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.dots {
+    color: #a8a8a8;
+    font-weight: 100;
+}
+
+
+.tech-name {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.work-experience-container {
+    margin-bottom: 55px;
+}
+
+
+.profession-title {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+
+
+.profession-company {
+    color: #ff6b08;
+}
+
+
+.profession-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.profession-divider {
+    color: #000;
+}
+
+
+.profession-duties {
+    margin-top: 14px;
+    margin-bottom: 25px;
+}
+
+
+.profession-duties-item {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+
+.university {
+    color: #ff6b08;
+    margin-bottom: 15px;
+}
+
+
+.university-specialty {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.education-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.education-divider {
+    color: #000;
+}
